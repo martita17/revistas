@@ -1,2 +1,10 @@
 # revistas
 Proyecto que busca rastrear la evolución y el impacto de las ciencias sociales computacionales y las humanidades digitales en las revistar de acceso abierto latinoamericanas.
+
+# PRYECTO: EXPLORACIÓN DEL USO DE METODOLOGÍAS COMPUTACIONALES EN LAS CIENCIAS SOCIALES Y LAS HUMANIDADES.
+La metodología es la pasión por el detalle. Por hacer pensando en lo que estamos haciendo.
+A partir del presente trabajo me propongo explorar uno de los principales repositorios de revistas científicas acreditadas de Latinoamérica: SciELO. Este tiene la particularidad de que agrupa aquellas publicaciones de Acceso Abierto de 16 países que integran su red, de los cuales, 13 son de Latinoamérica.
+El sitio se encuentra organizado en Colecciones agrupadas por Revistas según país de origen (y una entrada específica dedicada a cuestiones de Salud Pública), proyectos En Desarrollo, Servidores y Repositorio, Libros y Otras entradas no clasificadas en las anteriores. A su vez, cuenta con un buscador de revistas que aglutina todas las bases.
+Mi propuesta es realizar un ejercicio de scraping sobre partiendo del sitio scielo.org, que permita conformar una base de datos con los artículos publicados en los países seleccionados en los últimos 10 años. Posteriormente, a partir de técnicas de minería de textos, proceder a realizar un análisis que permita dar cuenta del impacto de las metodologías computacionales en las Ciencias Sociales y las humanidades en el período de tiempo indicado.
+El período de tiempo ha sido determinado para poder evaluar si ha existido algún impacto de la pandemia sobre las producciones científicas en dichas áreas.
+Por otra parte, los países seleccionados han sido determinados teniendo en cuenta a los 5 de mayor producción en las Ciencias Sociales y las Humanidades, en Latinoamérica y de habla hispana. Esta última dimensión se encuentra asociada a la necesidad de simplificar los ejercicios de minería de textos que, de otra forma, deberían complejizarse con la utilización de diccionarios en diversos idiomas (entre otras cuestiones).
